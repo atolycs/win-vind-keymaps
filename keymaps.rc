@@ -1,0 +1,7 @@
+" normal
+noremap O <click_right>
+
+" insert mode
+inoremap <esc><esc> <to_gui_normal>
+
+
